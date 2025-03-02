@@ -1,14 +1,14 @@
 {
     "Erling Haaland": {
-        "goals": 291.0,
-        "assists": 58.0
+        "goals": 291,
+        "assists": 58
     },
     "Kylian Mbappe": {
-        "goals": 359.0,
-        "assists": 150.0
+        "goals": 359,
+        "assists": 150
     },
     "Vinicius Junior": {
-        "goals": 125.0,
-        "assists": 86.0
+        "goals": 125,
+        "assists": 86
     }
 }
