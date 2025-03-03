@@ -1,5 +1,13 @@
 {
     "Erling Haaland": {
+        "all_time": {
+            "goals": "291",
+            "assists": "58",
+            "games_played": "356",
+            "total_minutes": "26142",
+            "minutes_per_goal": "89",
+            "minutes_per_goal_contribution": "74"
+        },
         "club_all_time": {
             "all_time": {
                 "goals": "253",
@@ -270,6 +278,14 @@
         }
     },
     "Kylian Mbappe": {
+        "all_time": {
+            "goals": "359",
+            "assists": "150",
+            "games_played": "494",
+            "total_minutes": "37811",
+            "minutes_per_goal": "105",
+            "minutes_per_goal_contribution": "74"
+        },
         "club_all_time": {
             "all_time": {
                 "goals": "311",
@@ -540,6 +556,14 @@
         }
     },
     "Vinicius Junior": {
+        "all_time": {
+            "goals": "125",
+            "assists": "86",
+            "games_played": "411",
+            "total_minutes": "27430",
+            "minutes_per_goal": "219",
+            "minutes_per_goal_contribution": "130"
+        },
         "club_all_time": {
             "all_time": {
                 "goals": "120",
