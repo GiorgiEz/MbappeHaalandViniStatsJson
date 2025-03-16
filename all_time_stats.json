@@ -1,21 +1,21 @@
 {
     "Erling Haaland": {
         "all_time": {
-            "goals": "291",
+            "goals": "292",
             "assists": "58",
-            "games_played": "356",
-            "total_minutes": "26142",
-            "minutes_per_goal": "89",
-            "minutes_per_goal_contribution": "74"
+            "games_played": "358",
+            "total_minutes": "26321",
+            "minutes_per_goal": "90",
+            "minutes_per_goal_contribution": "75"
         },
         "club_all_time": {
             "all_time": {
-                "goals": "253",
+                "goals": "254",
                 "assists": "54",
-                "games_played": "317",
-                "total_minutes": "22974",
-                "minutes_per_goal": "90",
-                "minutes_per_goal_contribution": "74"
+                "games_played": "319",
+                "total_minutes": "23153",
+                "minutes_per_goal": "91",
+                "minutes_per_goal_contribution": "75"
             },
             "by_club": {
                 "Borussia Dortmund": {
@@ -84,12 +84,12 @@
                 },
                 "Manchester City": {
                     "all_time": {
-                        "goals": "118",
+                        "goals": "119",
                         "assists": "18",
-                        "games_played": "135",
-                        "total_minutes": "11074",
-                        "minutes_per_goal": "93",
-                        "minutes_per_goal_contribution": "81"
+                        "games_played": "137",
+                        "total_minutes": "11253",
+                        "minutes_per_goal": "94",
+                        "minutes_per_goal_contribution": "82"
                     },
                     "by_competition": {
                         "Community Shield": {
@@ -117,18 +117,18 @@
                             "minutes_per_goal_contribution": "66"
                         },
                         "Premier League": {
-                            "goals": "83",
+                            "goals": "84",
                             "assists": "15",
-                            "games_played": "92",
-                            "total_minutes": "7640",
-                            "minutes_per_goal": "92",
-                            "minutes_per_goal_contribution": "77"
+                            "games_played": "94",
+                            "total_minutes": "7820",
+                            "minutes_per_goal": "93",
+                            "minutes_per_goal_contribution": "78"
                         },
                         "UEFA Champions League": {
                             "goals": "26",
                             "assists": "2",
                             "games_played": "29",
-                            "total_minutes": "2397",
+                            "total_minutes": "2396",
                             "minutes_per_goal": "92",
                             "minutes_per_goal_contribution": "85"
                         },
@@ -279,19 +279,19 @@
     },
     "Kylian Mbappe": {
         "all_time": {
-            "goals": "359",
+            "goals": "362",
             "assists": "150",
-            "games_played": "494",
-            "total_minutes": "37811",
+            "games_played": "498",
+            "total_minutes": "38189",
             "minutes_per_goal": "105",
             "minutes_per_goal_contribution": "74"
         },
         "club_all_time": {
             "all_time": {
-                "goals": "311",
+                "goals": "314",
                 "assists": "115",
-                "games_played": "408",
-                "total_minutes": "31259",
+                "games_played": "412",
+                "total_minutes": "31637",
                 "minutes_per_goal": "100",
                 "minutes_per_goal_contribution": "73"
             },
@@ -410,12 +410,12 @@
                 },
                 "Real Madrid": {
                     "all_time": {
-                        "goals": "28",
+                        "goals": "31",
                         "assists": "5",
-                        "games_played": "40",
-                        "total_minutes": "3270",
-                        "minutes_per_goal": "116",
-                        "minutes_per_goal_contribution": "99"
+                        "games_played": "44",
+                        "total_minutes": "3648",
+                        "minutes_per_goal": "117",
+                        "minutes_per_goal_contribution": "101"
                     },
                     "by_competition": {
                         "Copa del Rey": {
@@ -435,12 +435,12 @@
                             "minutes_per_goal_contribution": "31"
                         },
                         "LaLiga": {
-                            "goals": "17",
+                            "goals": "20",
                             "assists": "3",
-                            "games_played": "24",
-                            "total_minutes": "2080",
-                            "minutes_per_goal": "122",
-                            "minutes_per_goal_contribution": "104"
+                            "games_played": "26",
+                            "total_minutes": "2249",
+                            "minutes_per_goal": "112",
+                            "minutes_per_goal_contribution": "97"
                         },
                         "Supercopa": {
                             "goals": "1",
@@ -453,10 +453,10 @@
                         "UEFA Champions League": {
                             "goals": "7",
                             "assists": "1",
-                            "games_played": "10",
-                            "total_minutes": "759",
-                            "minutes_per_goal": "108",
-                            "minutes_per_goal_contribution": "94"
+                            "games_played": "12",
+                            "total_minutes": "968",
+                            "minutes_per_goal": "138",
+                            "minutes_per_goal_contribution": "121"
                         },
                         "UEFA Super Cup": {
                             "goals": "1",
@@ -557,21 +557,21 @@
     },
     "Vinicius Junior": {
         "all_time": {
-            "goals": "125",
-            "assists": "86",
-            "games_played": "411",
-            "total_minutes": "27430",
-            "minutes_per_goal": "219",
-            "minutes_per_goal_contribution": "130"
+            "goals": "126",
+            "assists": "81",
+            "games_played": "415",
+            "total_minutes": "27754",
+            "minutes_per_goal": "220",
+            "minutes_per_goal_contribution": "134"
         },
         "club_all_time": {
             "all_time": {
-                "goals": "120",
-                "assists": "81",
-                "games_played": "374",
-                "total_minutes": "25115",
-                "minutes_per_goal": "209",
-                "minutes_per_goal_contribution": "124"
+                "goals": "121",
+                "assists": "76",
+                "games_played": "378",
+                "total_minutes": "25439",
+                "minutes_per_goal": "210",
+                "minutes_per_goal_contribution": "129"
             },
             "by_club": {
                 "CR Flamengo": {
@@ -652,12 +652,12 @@
                 },
                 "Real Madrid": {
                     "all_time": {
-                        "goals": "102",
-                        "assists": "76",
-                        "games_played": "300",
-                        "total_minutes": "21354",
-                        "minutes_per_goal": "209",
-                        "minutes_per_goal_contribution": "119"
+                        "goals": "103",
+                        "assists": "71",
+                        "games_played": "304",
+                        "total_minutes": "21678",
+                        "minutes_per_goal": "210",
+                        "minutes_per_goal_contribution": "124"
                     },
                     "by_competition": {
                         "Copa del Rey": {
@@ -670,11 +670,11 @@
                         },
                         "FIFA Club World Cup": {
                             "goals": "3",
-                            "assists": "2",
+                            "assists": "1",
                             "games_played": "3",
                             "total_minutes": "186",
                             "minutes_per_goal": "62",
-                            "minutes_per_goal_contribution": "37"
+                            "minutes_per_goal_contribution": "46"
                         },
                         "FIFA Intercontinental Cup": {
                             "goals": "1",
@@ -685,12 +685,12 @@
                             "minutes_per_goal_contribution": "45"
                         },
                         "LaLiga": {
-                            "goals": "59",
-                            "assists": "38",
-                            "games_played": "196",
-                            "total_minutes": "13228",
-                            "minutes_per_goal": "224",
-                            "minutes_per_goal_contribution": "136"
+                            "goals": "60",
+                            "assists": "35",
+                            "games_played": "198",
+                            "total_minutes": "13347",
+                            "minutes_per_goal": "222",
+                            "minutes_per_goal_contribution": "140"
                         },
                         "Supercopa": {
                             "goals": "4",
@@ -702,11 +702,11 @@
                         },
                         "UEFA Champions League": {
                             "goals": "28",
-                            "assists": "23",
-                            "games_played": "64",
-                            "total_minutes": "4864",
-                            "minutes_per_goal": "173",
-                            "minutes_per_goal_contribution": "95"
+                            "assists": "22",
+                            "games_played": "66",
+                            "total_minutes": "5069",
+                            "minutes_per_goal": "181",
+                            "minutes_per_goal_contribution": "101"
                         },
                         "UEFA Super Cup": {
                             "goals": "0",
